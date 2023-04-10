@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @juanortizmarquez1
-- 👀 I’m interested in backend and frontend
-- 🌱 I’m currently learning java spring
+- 👋 Hi, I’m Juan
+- 👀 I’m interested in backend
+- 🌱 I’m currently working as a programmer
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: juanortizmarquez1@gmail.com
